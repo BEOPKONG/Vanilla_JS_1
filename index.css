@@ -5,3 +5,15 @@
 .clicked {
   color: blue;
 }
+
+.greetings {
+  display: none;
+}
+
+.showing {
+  display: block;
+}
+
+.disappear {
+  display: none;
+}
